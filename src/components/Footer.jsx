@@ -165,7 +165,7 @@ const Footer = () => {
             ))}
           </ul>
           <h6 className="text-gray-400 no-underline mt-3 mb-0">
-            &#169 2023. Starbucks Coffee Company. Reservados todos los derechos
+            © 2023. Starbucks Coffee Company. Reservados todos los derechos
           </h6>
           <small className="text-gray-400 no-underline break-words break-all pb-3">
             ar | prod | 64c8baae1500e545b61c4b253ff7112e0390c7a1 | 02/11/2023-05:16:51:712
