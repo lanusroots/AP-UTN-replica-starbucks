@@ -16,7 +16,7 @@ const Header = () => {
           <div className="flex items-center px-5">
             <Link className="" to={"/"}>
               <img
-                src="public\starbucks-logo.png"
+                src="/starbucks-logo.png"
                 alt="logo-starbucks"
                 className="h-12"
               />
