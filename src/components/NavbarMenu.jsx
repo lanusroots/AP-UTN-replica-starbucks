@@ -23,7 +23,7 @@ const NavbarMenu = () => {
           {navLinks.map((link) => (
             <li
               key={link.title}
-              className="relative my-6 md:my-0 mx-6 hover:before:content-[''] hover:before:w-full hover:before:-bottom-6 hover:before:bg-sbdarkgreen1 hover:before:h-1 hover:before:absolute"
+              className="relative my-6 md:my-0 mx-6 hover:before:content-[''] hover:before:w-full hover:before:-bottom-6 hover:before:bg-newdarkgreen1 hover:before:h-1 hover:before:absolute"
             >
               <Link className="uppercase" to={link.to}>
                 {link.title}

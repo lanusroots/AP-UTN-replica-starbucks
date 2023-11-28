@@ -1,7 +1,7 @@
 const Localizar = () => {
     return (
       <div>
-        <div className="bg-sbdarkgreen">
+        <div className="bg-newdarkgreen">
           <div className="md:max-w-[680px] mb-4 mx-auto">
             <h1 className="text-white text-[calc(1.2125rem+2.55vw)] font-bold py-12 px-5">
               Localizar tienda

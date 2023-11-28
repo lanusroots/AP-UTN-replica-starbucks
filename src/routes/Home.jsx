@@ -4,7 +4,7 @@ const Home = () => {
   const banners = [
     {
       title: "¡La magia llegó a nuestras tiendas!",
-      bgColor: "bg-sbpink",
+      bgColor: "bg-newpink",
       textColor: "text-white",
       image: "https://djftrby1k8irl.cloudfront.net/s3fs-public/2023-11%2FBANNER-WEB_0.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max",
       paragraph:
@@ -18,8 +18,8 @@ const Home = () => {
     },
     {
       title: "Unite a algo más grande",
-      bgColor: "bg-sblightblue",
-      textColor: "text-sbgreen",
+      bgColor: "bg-newlightblue",
+      textColor: "text-newgreen",
       image: "https://djftrby1k8irl.cloudfront.net/s3fs-public/2022-02%2F5%20Banner%20Reclutamiento%20704x600%20copy_1.png?auto=format,compress&q=70&crop=focalpoint&ar=1.8:1.0&w=1400&fit=max",
       paragraph: "Revisá las oportunidades que tenemos para vos",
       hasHashtag: false,
@@ -27,7 +27,7 @@ const Home = () => {
       isFlipped: true,
       hasButton: true,
       buttonText: "Postular acá",
-      buttonBorder: "border-sbgreen",
+      buttonBorder: "border-newgreen",
     },
   ]
 
